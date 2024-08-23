@@ -16,7 +16,6 @@ I <ins>solve</ins> problems.
     <samp><strong>
         👩‍💻 #Enthusiastic #Diligent #Fullstack #Engineer
     </strong></samp>
-
 </h6>
 
 <h1 align="center">
@@ -35,7 +34,41 @@ I can quickly absorb new information and transform it into creative solutions. I
 
 ### 🏢 Work Experience
 
+<h5>
+
+[<img align="left" height="64px" width="64px" alt="Rekonnect" src="img/rekonnect.jpeg"/>](https://rekonnect.io/)
+
+<br/>
+
+**Software Engineer (Full-stack)** - [**Rekonnect**](https://rekonnect.io/)  
+<sup>Oct 2023 - Feb 2024</sup>
+
+<br/>
+
+[<img align="left" height="64px" width="64px" alt="Buyuk College" src="img/buyukcollege.jpeg"/>](https://www.buyukkolej.k12.tr/index/en)
+
+**Teacher of Computer Science** - [**Büyük College**](https://www.buyukkolej.k12.tr/index/en)  
+<sup>Sep 2017 - Mar 2022</sup>
+
+<br/>
+
+[<img align="left" height="64px" width="64px" alt="K12NET" src="img/k12net.jpeg"/>](https://www.k12net.com/en/)
+
+**Software Engineer (Full-stack)** - [**K12NET**](https://www.k12net.com/en/)  
+<sup>Apr 2017 - Sep 2017</sup>
+
+<br/>
+
+[<img align="left" height="60px" width="64px" alt="aktos" src="img/aktos.jpeg"/>](https://aktos.io/)
+
+**Software Developer (Full-stack)** - [**aktos electronics**](https://aktos.io/)  
+<sup>Jun 2015 - Jul 2016</sup>
+
+<br/>
+
 <b>[Repositories](https://github.com/yelizsevinc?tab=repositories) | [LinkedIn](https://www.linkedin.com/in/yelizsevinc/)</b>
+
+</h5>
 
 ### 👜 Toolkit
 
