@@ -9,9 +9,9 @@ I <ins>solve</ins> problems.
 ---
 
 <h6 align="center">
-    <sup><strong><del>
+    <s><sup><strong><del>
         👩‍🏫 #Computer #Science #Teacher
-    </del></strong></sup>
+    </del></strong></sup></s>
     <br/>
     <samp><strong>
         👩‍💻 #Enthusiastic #Diligent #Fullstack #Engineer
@@ -20,7 +20,7 @@ I <ins>solve</ins> problems.
 
 <h1 align="center">
 
-<b>[🏢](#-work-experience) | [👜](#-toolkit) | [💬](#-reach-out-to-me)</b>
+<b>[🏢](#-work-experience) • [👜](#-toolkit) • [💬](#-reach-out-to-me)</b>
 
 </h1>
 
